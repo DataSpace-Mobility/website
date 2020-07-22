@@ -1,0 +1,40 @@
+@import 'hero-area';
+
+.Home, .hero-area {
+    height: 100%;
+    width: 100%;
+}
+
+.building-blocks {
+    p {
+        font-size: 1.4em;
+    }
+    h3 {
+        font-size: 2em;
+        font-family: "BwNistaInt-xBd" !important;
+    }
+    .card {
+        margin-top: 30px;
+        padding: 0px 60px;
+    }
+}
+
+.help-you {
+    .card {
+        margin: 20px 0px;
+        h3 {
+            font-size: 2em;
+        }
+    }
+}
+
+.iscfellowship {
+    img {
+        width: 200px;
+        margin: 0px auto;
+    }
+    h4 {
+        line-height: 2em;
+        margin-top: 20px;
+    }
+}

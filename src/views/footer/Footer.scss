@@ -1,0 +1,46 @@
+@import '../mixins';
+
+.footer {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0px 15px 0px;
+    color: #fff;
+    background-color: #242424;
+    small {
+        display: block;
+    }
+    .heart-color {
+        color: #D43C67;
+    }
+    .logo {
+        width: 190px;
+    }
+    .main-window {
+        text-align: left;
+        padding: 10px 100px 40px 0px;
+        @include tablet {
+            padding: 10px 30px;
+            text-align: center;
+        }
+        h3 {
+            color: #fff;
+            font-family: "BwNistaInt-xBd" !important;
+            font-size: 2em;
+        }
+        h5 {
+            color: #fff;
+            margin-top: 50px;
+            font-weight: 400;
+            font-family: "BwNistaInt-xBd" !important;
+            code {
+                color: #F99D2D;
+            }
+        }
+    }
+    small {
+        margin: 4px 0px;
+    }
+    /* code::selection {
+        color: ;
+    } */
+}
