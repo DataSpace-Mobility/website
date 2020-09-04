@@ -1,7 +1,7 @@
 
 <figure class="img-full-width">
 
-![alt text](blogs/posts/name-of-the-blog/dataspace.jpg "Logo Title Text 1")
+![alt text](blogs/posts/mobility-dataspace/dataspace.jpg "Logo Title Text 1")
 
 </figure>
 
