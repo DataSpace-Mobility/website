@@ -1,24 +1,34 @@
 {
-    "posts": [
-        {
-            "category": "PLATFORM",
+    "posts": {
+        "mobility-dataspace": {
+            "category": "Mobility DataSpace 101",
             "name": "India’s first unified DataSpace for Urban Mobility",
             "image": "blogs/posts/mobility-dataspace/dataspace.jpg",
-            "description": "We aim to build Mobility DataSpace, a unified data ecosystem for urban mobility, that will enable democratic sharing of standardized, high quality urban mobility-related datasets among various stakeholders",
+            "description": "Mobility DataSpace aims to enable democratic sharing of standardized, high quality urban mobility-related datasets among various stakeholders.",
             "author": "aparna",
             "creation_date": "24 AUG 2020",
             "reading_time": "9 MIN READ",
             "url": "mobility-dataspace"
         },
-        {
-            "category": "PLATFORM",
-            "name": "Mobility DataSpace: India’s first unified DataSpace for Urban Mobility",
-            "image": "blogs/posts/mobility-dataspace/dataspace.jpg",
-            "description": "We aim to build Mobility DataSpace, a unified data ecosystem for urban mobility, that will enable democratic sharing of standardized, high quality urban mobility-related datasets among various stakeholders",
+        "dataspace-use-cases" : {
+            "category": "Mobility DataSpace 101",
+            "name": "Unlocking innovation in mobility",
+            "image": "blogs/posts/dataspace-use-cases/use_cases.jpg",
+            "description": "Regardless of our profession, we all have been hearing about the power of data time and again. But for the grand majority of the citizens, this power is only unleashed when on-ground solutions are developed digesting this data.",
+            "author": "manuel",
+            "creation_date": "26 SEPT 2020",
+            "reading_time": "3 MIN READ",
+            "url": "dataspace-use-cases"
+        },
+        "urban-data-challenge": {
+            "category": "AMPLIFI",
+            "name": "Pravega: A sectoral dashboard for urban mobility",
+            "image": "blogs/posts/urban-data-challenge/dashboard.png",
+            "description": "The AMPLIFI Urban Data Challenge reinforced the need to break down academic silos and work together in order to solve complex problems.",
             "author": "aparna",
-            "creation_date": "24 AUG 2020",
-            "reading_time": "9 MIN READ",
-            "url": "mobility-dataspace"
+            "creation_date": "26 SEPT 2020",
+            "reading_time": "2 MIN READ",
+            "url": "urban-data-challenge"
         }
-    ]
+    }
 }
