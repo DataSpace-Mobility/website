@@ -36,6 +36,5 @@ Did you ever spend more time looking for a parking spot than actually arriving a
 
 Last and first-mile connectivity along with complicated interchanges between modes of transport are the major reasons why urban Indians prefer to have their own way of transport. A seamless origin-to-destination commute can be offered to citizens via a multi-modal integrated trip planner. The aggregated real-time data from the diverse modes of transport in the ecosystem can be directly digested from Mobility DataSpace to achieve it. 
 
-#### Concluding statement 
 
-Now that we have shared a glimpse of what is achievable with the data shared at Mobility DataSpace, it is your task to continue exploring the universe of possibilities with the aim of improving Indian Urban Mobility.  We will be more than pleased to discuss your use case ideas and future possibilities of collaboration at hi@dataspace.mobi . 
+Now that we have shared a glimpse of what is achievable with the data shared at Mobility DataSpace, it is your task to continue exploring the universe of possibilities with the aim of improving Indian Urban Mobility.  We will be more than pleased to discuss your use case ideas and future possibilities of collaboration at hi@dataspace.mobi. 
